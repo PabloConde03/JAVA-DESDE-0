@@ -11,7 +11,7 @@ Actualmente me encuentro en la fase de prácticas (FCT) de mi primer año, y he 
 
 Aunque la estructura de los temas toma inspiración de rutas de aprendizaje estándar, **he resuelto y añadido de forma personal las soluciones a cada uno de los ejercicios propuestos**. Este repositorio refleja mi progreso escribiendo código desde la sintaxis más básica hasta el manejo avanzado de clases, herencia y excepciones.
 
-<img src="Images/avatar.png" width="30" alt="Avatar Pablo Conde Pérez">
+<img src="Images/avatar.png" width="50" alt="Avatar Pablo Conde Pérez">
 
 ---
 
