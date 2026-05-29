@@ -3,7 +3,7 @@
 # ☕ Fundamentos de Java - Mi Progreso y Soluciones
 
 [![Java](https://img.shields.io/badge/Java-JDK_21+-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.oracle.com/es/java)
-[![Status](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Estado-En Proceso-success?style=for-the-badge)](#)
 
 ¡Hola! Soy **Pablo Conde Pérez**, estudiante de Desarrollo de Aplicaciones Web (DAW) en el centro Fernando Wirtz. 
 
