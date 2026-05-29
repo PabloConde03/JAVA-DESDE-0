@@ -72,7 +72,8 @@ Navega hasta el paquete que te interese dentro de basic/.
 
 Ejecuta los archivos .java directamente desde el IDE para ver la salida en la consola.
 
-🛠️ Tecnologías y Herramientas
+
+## 🛠️ Tecnologías y Herramientas
 
 Lenguaje: Java (JDK 21+)
 
